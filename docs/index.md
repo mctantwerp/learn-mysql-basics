@@ -1,9 +1,17 @@
 # 👋 Welkom
 
-Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum.
+Databases, ze zijn overal om ons heen en we gebruiken ze voor alles. Denk aan: todo-lijstjes, verlanglijstjes, agenda, vriendenboek,...
 
-Maecenas faucibus mollis interdum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus.
+Als definitie voor een database zouden we dus kunnen gaan voor: **Een verzameling van data die op een logische en gestructureerde manier wordt opgeslagen zodat we ze voor later doeleinden makkelijk kunnen gaan lezen, aanpassen en verwijderen.**
 
-Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Maecenas sed diam eget risus varius blandit sit amet non magna.
+## Waarom?
 
-Maecenas faucibus mollis interdum. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Curabitur blandit tempus porttitor. Maecenas sed diam eget risus varius blandit sit amet non magna.
+Als we een website willen bouwen die dynamisch inhoud gaat tonen hebben we een database nodig. We moeten namelijk bepaalde gegevens kunnen gaan bijhouden. Bvb:
+
+* Gegevens van gebruikers (usernames, e-mails, wachtwoorden,...)
+* Bestellingen door gebruikers bij een webshop
+* Bepaalde voorkeuren van gebruikers (notificatievoorkeuren,...)
+* Locaties van onze afbeeldingen
+* Verschillende url's naar de pagina's van onze website
+* Talen van onze website
+* ...

@@ -1,16 +1,17 @@
-site_name: Template
-site_url: https://template.learn.mctantwerp.be
-site_author: Dade Murphy
-site_description: Basis cursus over template
+site_name: MySQL Basics
+site_url: https://mysql.basics.learn.mctantwerp.be
+site_author: Alessandro Aussems
+site_description: Basis cursus over MySQL (databanken).
 
-repo_name: mctantwerp/learn-template
-repo_url: https://github.com/mctantwerp/learn-template
+repo_name: mctantwerp/learn-mysql-basics
+repo_url: https://github.com/mctantwerp/learn-mysql-basics
 edit_uri: edit/main/docs/
 
 copyright: Karel de Grote Hogeschool<br>Multimedia & Creatieve Technologie
 
 nav:
   - 👋 Welkom: index.md
+  - terminologie.md
   - ❓ Appendix:
     - appendix/index.md
 
